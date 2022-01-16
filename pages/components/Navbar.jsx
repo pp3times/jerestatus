@@ -5,7 +5,7 @@ const Navbar = () => {
 			<ul className="flex space-x-9 text-white font-bold text-xltext-[#b2becd]">
 				<li className="cursor-default text-[#b2becd]">Contact</li>
 				<li>
-					<a href="https://github.com/pp3times/jerestatus" target="_blank">
+					<a href="https://github.com/pp3times/jerestatus" rel="author" target="_blank">
 						github
 					</a>
 				</li>
