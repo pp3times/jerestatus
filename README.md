@@ -21,6 +21,7 @@ git clone https://github.com/pp3times/jerestatus && cd jerestatus
 yarn
 ```
 
+<<<<<<< HEAD
 3. Run dev server
 
 ```bash
@@ -51,3 +52,10 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+=======
+then
+
+```
+yarn start
+```
+>>>>>>> 7b8822330db12bf875eb4aa1221bd04f14095672
