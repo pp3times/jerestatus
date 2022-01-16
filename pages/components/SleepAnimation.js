@@ -1,43 +1,5 @@
-import Head from 'next/head'
-
 const SleepAnimation = () => {
 	return (
-		// <div className="container">
-		// 	<div className="on-ground-lights">
-		// 		<div className="window-light">
-		// 			<div className="cat">
-		// 				<div className="head"></div>
-		// 			</div>
-		// 		</div>
-		// 		<div className="window-light"></div>
-		// 	</div>
-		// 	<div className="table right">
-		// 		<div className="table-shadow">
-		// 			<div className="window-light">
-
-		// 			</div>
-		// 		</div>
-		// 	</div>
-		// 	<div className="bed">
-		// 		<div className="bed-shadow">
-		// 			<div className="window-light"></div>
-		// 			<div className="window-light"></div>
-		// 		</div>
-		// 		<div className="bed-head"></div>
-		// 		<div className="ground-cloth">
-		// 			<div className="window-light"></div>
-		// 			<div className="window-light"></div>
-		// 			<div className="under-pillow-shadows">
-		// 				<div className="head-shadow"></div>
-		// 				<div className="neck-shadow"></div>
-		// 			</div>
-		// 			<div className="pillow">
-
-		// 			</div>
-		// 		</div>
-		// 	</div>
-		// </div>
-
 		<div className="container">
 			<div className="on-ground-lights">
 				<div className="window-light">
@@ -124,4 +86,4 @@ const SleepAnimation = () => {
 	)
 }
 
-export default SleepAnimation
+export default SleepAnimation;
