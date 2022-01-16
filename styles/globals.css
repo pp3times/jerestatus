@@ -25,6 +25,13 @@ a {
 @tailwind components;
 @tailwind utilities;
 
+::selection {
+	color: #fff;
+	/* background: #80FFEA; */
+	/* background: #8AFF80; */
+	background: #9580FF;
+}
+
 .container {
   width: 0px;
   height: 0px;

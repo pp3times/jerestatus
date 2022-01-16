@@ -1,5 +1,5 @@
-import { SleepAnimation } from "./";
-import Date from '../Date'
+import SleepAnimation from './SleepAnimation';
+import Date from './Date'
 
 const Sleep = () => {
 	return (

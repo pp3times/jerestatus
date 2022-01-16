@@ -1,5 +1,8 @@
 import Head from 'next/head'
-import { Navbar, Footer, Sleep } from './components'
+// import { Navbar, Footer, Sleep } from './components'
+import Navbar from './components/Navbar'
+import Footer from './components/Footer'
+import Sleep from './components/Sleep'
 
 export default function Home() {
 	return (
