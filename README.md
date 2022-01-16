@@ -1,8 +1,27 @@
+# Jeremy Status Site 🥱
+
+ Check Status Before Contact me ! ䷤
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
 First, run the development server:
+
+
+1. Clone repo
+
+```bash
+git clone https://github.com/pp3times/jerestatus && cd jerestatus
+```
+
+2. Install dependency
+
+```
+yarn
+```
+
+3. Run dev server
 
 ```bash
 npm run dev
