@@ -7,13 +7,14 @@ const Navbar = () => {
         <div className="text-white font-bold text-xl md:text-2xl">
           Jeremy Status
         </div>
-        <ul className="flex space-x-9 text-white font-bold text-xl text-[#b2becd]">
+        <ul className="flex space-x-9  font-bold text-xl text-[#b2becd]">
           <li className="cursor-default text-[#b2becd]">Contact</li>
           <li>
             <a
               href="https://github.com/pp3times/jerestatus"
               rel="noopener noreferrer"
               target="_blank"
+							className='text-white'
             >
               github
             </a>
