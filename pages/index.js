@@ -3,6 +3,7 @@ import Head from 'next/head'
 import Navbar from './components/Navbar'
 import Footer from './components/Footer'
 import Sleep from './components/Sleep'
+import Working from './components/Working'
 
 export default function Home() {
 	return (
@@ -15,7 +16,8 @@ export default function Home() {
 
       <div className="h-screen overflow-x-hidden">
         <Navbar />
-        <Sleep />
+        {/* <Sleep /> */}
+				<Working />
         <Footer />
       </div>
     </div>
