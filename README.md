@@ -8,6 +8,13 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 First, run the development server:
 
+## Active Status
+- [x] Sleeping
+- [x] Working
+- [ ] Napping
+- [ ] Teaching
+- [ ] Eating
+
 
 1. Clone repo
 
