@@ -16,8 +16,8 @@ export default function Home() {
 
       <div className="h-screen overflow-x-hidden">
         <Navbar />
-        <Sleep />
-{/* <Working /> */}
+//         <Sleep />
+        <Working />
         <Footer />
       </div>
     </div>
